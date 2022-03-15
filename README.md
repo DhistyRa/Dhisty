@@ -1,3 +1,4 @@
+![Screenshot_20220315-111314](https://user-images.githubusercontent.com/101359004/158303506-dcab923a-831c-44b7-8430-49245127f0e9.png)
 # Package 'tesseract' has no installation candidat
 why Package tesseract is not available?
 
