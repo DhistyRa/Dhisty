@@ -2,19 +2,18 @@
 why Package tesseract is not available?
 
 
-$ pkg install tesseract
+```$ pkg install tesseract```
 
-Checking availability of current mirror: ok
+```Checking availability of current mirror: ok```
 
-Reading package lists... Done
+```Reading package lists... Done```
 
-Building dependency tree... Done
+```Building dependency tree... Done```
 
-Reading state information... Done
+```Reading state information... Done```
 
-Package tesseract is not available, but is referred to by another package.
+```Package tesseract is not available, but is referred to by another package.```
 
-This may mean that the package is missing, has been obsoleted, or
-is only available from another source
+```This may mean that the package is missing, has been obsoleted, or is only available from another source```
 
-E: Package 'tesseract' has no installation candidate
+```E: Package 'tesseract' has no installation candidate```
