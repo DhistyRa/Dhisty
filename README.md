@@ -1,4 +1,4 @@
-# Dhisty
+# Package 'tesseract' has no installation candidat
 why Package tesseract is not available?
 
 
